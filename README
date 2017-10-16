@@ -1,4 +1,4 @@
-Qualio Distance Finder Test.
+Distance Finder example.
 
 Please run "python geo.py" for the script to answer the question posed in the test, or run the unittests to validate functionality is working as expected.
 
