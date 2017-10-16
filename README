@@ -1,12 +1,7 @@
 Distance Finder example.
 
-Please run "python geo.py" for the script to answer the question posed in the test, or run the unittests to validate functionality is working as expected.
-
 Note that docstrings are formatted in such a way that they are easy to read using the python help viewer, and that they would be converted into RST when using
 Sphinx in combination with the module "cartouche".
-
-See "answers.html" for my responses to the other questions asked.
-
 
 PyLint Report
 ======
